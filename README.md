@@ -133,8 +133,8 @@ These benchmarks demonstrate that the model is efficient enough for near-real-ti
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/richardelchaar/Transformers-text-classification.git
+    cd Transformers-text-classification
     ```
 
 2.  **Set up the environment:** It is recommended to use a virtual environment. The experiments were run in Google Colab.
